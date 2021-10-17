@@ -1,52 +1,170 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8"/>
   <title>BuiltByDesign</title>
-  <link rel="stylesheet" type="text/css" href="css/style.css">  
-</head>
-<body>
-	<nav id="navigation">
-		<a href="#home" id="index">Home</a>
-		<a href="#about" id="about">About Us</a>
-		<a href="#services" id="services">Services</a>
-		<a href="#projects" id="projects">Projects</a>
-	</nav>
+
+  <style>
+  @font-face {
+    font-family: 'garogierregular';
+    src: url('css/font/garogier-webfont.woff2') format('woff2'),
+    url('css/font/garogier-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+  }
+
+  * { margin: 0; padding: 0;}
+
+  body, html {
+    height: 100%;
+    font-family: 'garogierregular';
+    font-size: 1em;
+    color: #555;
+    background-color: #eee;
+  }
 
 
-
-	<div id="content"></div>
-
-	<footer>
-		<h2>Contact details</h2>
-		<p>email: <a href="mailto:julesmutius@gmail.com">julesmutius@gmail.com</a></p>
-		<a href="tel:0782038444">255(0)782038444</a>
-	</footer>
-	
-	
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  #content {
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block; 
+    width: 70%; 
+    margin: 90px auto; 
+    line-height: 1.5em;
+    border-bottom: #ccc 2px solid;
+    padding-bottom: 2em;
+  }
   
-  <script type="text/javascript">
-	// start 
-    const docs = "index.md"
-    async function run(here) {
-      let file = await fetch(here)
-      let text = await file.text()
-      document.getElementById('content').innerHTML =
-        marked(text);
+  #content, footer {
+    font-size: 1.2em;
+  }
+
+  #content img {
+    text-align: left;
+    display: block;
+    background-color: #fff;
+    padding: 10px;
+  }
+
+  .index #content {
+    background-image: url("pics/home.jpg");
+    height: 100%;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+    margin: 0; 
+    font-size: 1em;
+  }
+
+  .index blockquote {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgba(0,0,0,0.4);
+    padding: 1em 0;
+
+  }
+
+  .index blockquote h1, 
+  .index blockquote h2, 
+  .index blockquote h3 {
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+    padding: 0.4em;
+    width: auto;
+    margin:  0 auto;
+    letter-spacing: 5px;
+  }
+  
+  .index blockquote h2 {font-size: 2em;}
+
+  h1, h2, h3 {
+    font-family: 'garogierregular';
+    color: #111;
+    margin: 1em 0 0.3em 0;
+    font-weight: lighter;
+  }
+  
+  h1 {font-size: 1.7em;}
+  h2 {font-size: 1.6em;}
+  h3 {font-size: 1.2em; }
+
+  .index h1, .index h2, .index h3 {
+    text-align: center;
+  }
+
+  #navigation {
+    display: block;
+    font-family: 'garogierregular';  
+    color: #000;
+    position: absolute;
+    top: 0;
+    right: 1em;
+    text-align: right;
+    z-index: 9;
+  }
+  #navigation a {
+    display: inline-block;
+    text-decoration: none;
+    margin:1em 0 0 1em;
+    font-size: 1.3em;
+    color: #333;
+    line-height: 1em;
+    color: #000;
+  }
+
+  #navigation a:hover {
+    color:#596a9a;
+    text-decoration: underline;
     }
 
-    // run on startup
-    run('index.md')
+  .index footer {
+    bottom: 0; 
+    z-index: 9;
+  }
 
-	// click event for nav
-	document.getElementById("navigation").addEventListener("click",function(e) {    
-	    if(e.target && e.target.nodeName == "A") {
-	        const docs = e.target.id+".md"
-	        run(docs)
-	    }
-	});
+  footer {
+    display: block; 
+    margin: 1em auto;
+    width:100%;
+    text-align: center;
+    line-height: 1.4em;
+  }
 
-  </script>
+  .light {opacity: 0.6;}
+
+</style>
+</head>
+<body class="index">
+
+  <nav id="navigation">
+    <a href="#!home" id="index">Home</a>
+    <a href="#!about" id="about">About Us</a>
+    <a href="#!services" id="services">Services</a>
+    <a href="#!projects" id="projects">Projects</a>
+  </nav>
+
+
+  <div id="content">
+  </div>
+
+
+
+  <footer>
+    <h2>Contact details</h2>
+    <p>email: <a href="mailto:julesmutius@gmail.com">julesmutius@gmail.com</a></p>
+    <p>phone: <a href="tel:0782038444">255(0)782038444</a></p>
+    <p class="light">builtbydesign.com</p>
+  </footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
