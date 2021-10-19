@@ -6,7 +6,7 @@
 - [private house: Arusha](https://photos.app.goo.gl/aqbMCwSWqK3dguASA)
 [![arusha house](img/house-arusha.jpg)](https://photos.app.goo.gl/aqbMCwSWqK3dguASA)
 - [Grumeti: Natta Church](https://photos.app.goo.gl/dnhn1FtjYZYpodN87)
-[![grumeti church](img/team.jpg)](https://photos.app.goo.gl/dnhn1FtjYZYpodN87)
+[![grumeti church](img/natta-church.jpg)](https://photos.app.goo.gl/dnhn1FtjYZYpodN87)
 - [Farufaru build](https://photos.app.goo.gl/QGc3NYD8JCh4LqTs8)
 [![farufaru build](img/farufaru.jpg)](https://photos.app.goo.gl/QGc3NYD8JCh4LqTs8)
 - [Home Build](https://photos.app.goo.gl/kQBnF2fP6QG3vkc17)
