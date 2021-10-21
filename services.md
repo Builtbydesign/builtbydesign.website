@@ -1,6 +1,3 @@
-### [ecotz.com](http://ecotz.com/) • [Sumari&Mutius](#)
-
-
 ## Services
 
 - Lodge/camp construction-concept to completion
