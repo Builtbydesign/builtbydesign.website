@@ -135,7 +135,7 @@
     color: #000;
   }
 
-  #navigation a:hover {
+  #navigation a:hover, footer a:hover {
     color:#596a9a;
     text-decoration: underline;
     }
@@ -152,35 +152,49 @@
     text-align: center;
     line-height: 1.4em;
   }
-
+  
+  footer a {
+    color: #333;
+    text-decoration: none;
+  }
   .light {opacity: 0.6;}
 
-/*// services menu */
-.services #navigation {
-	padding-bottom: 1em;
-	border-bottom: #ccc 1px solid;	
+
+
+
+a#sumari-mutius, a#ecotz {
+display: none;
+}
+.services a#sumari-mutius,
+.services a#ecotz
+ {
+display: block;
 }
 
-.services h3 {
-	text-align: right;
-	margin: 0;
+
+/*// services menu */
+.services blockquote h3  {
+  list-style: none;
+  text-align: right;
+  padding: 0;
+  line-height: 1.5em;
+  font-size: 1.1em;
+  margin:0;
+}
+.services blockquote {
 	padding-top: 0.5em;
-	/*width: 10px;*/
-	position: relative;
-	bottom: 1.5em;
-	left: 3em;	
-	font-size: 1.1em;
+  float: right;
+  position: relative;
+  right: -3em;
+  top: -0.6em;
 	color: #222;
 }
-
-.services h3 a {
+.services blockquote a {
 	text-decoration: none;
 	color: #555;
 }
-
 .services a:hover {text-decoration: underline;}
 
-/*.services #*/
 </style>
 </head>
 <body class="index">
@@ -190,6 +204,8 @@
     <a href="#!about" id="about">About Us</a>
     <a href="#!services" id="services">Services</a>
     <a href="#!projects" id="projects">Projects</a>
+    <a href="#!sumari-mutius" id="sumari-mutius">Sumari&amp;Mutius</a>
+    <a href="http://ecotz.com/" id="ecotz">eco.tz</a>
   </nav>
 
 
@@ -199,7 +215,7 @@
 
 
   <footer>
-    <h2>Contact details</h2>
+    <h2>contact details</h2>
     <p>email: <a href="mailto:julesmutius@gmail.com">julesmutius@gmail.com</a></p>
     <p>phone: <a href="tel:0782038444">255(0)782038444</a></p>
     <p class="light">builtbydesign.org</p>
