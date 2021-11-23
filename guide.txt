@@ -1,0 +1,29 @@
+Your index.html file is the main template for the whole website. That page has an empty content section that gets filled with the relevant text when you click on a navigation link.
+
+This uses markdown, a way of writing the text that's then turned into HTML:
+https://www.markdownguide.org/cheat-sheet/
+
+Each page is an md file (markdown file), if you look at the about.md file, thats your about page.
+
+
+To edit a page
+
+1. Open the relevant .md file.
+2. Press the pencil icon to edit
+3. Press 'Commit Changes' at the bottom of the page
+
+
+To add a page
+
+1. Open the index.html file
+2. Add a link in the navigation
+3. The link must be in this style:
+<a href="#!about" id="about">About Us</a>
+4. Press 'Commit Changes' at the bottom of the page 
+5. Create a corresponding text file called 'about.md'or whatever your page is called
+
+
+
+
+
+
