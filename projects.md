@@ -14,5 +14,8 @@
 [![meru home](img/home-meru.jpg)](https://photos.app.goo.gl/kQBnF2fP6QG3vkc17)
 - [Rise Research Institute](https://photos.app.goo.gl/EyaKMJr9MaYLHZnr7)
 [![rise institute](img/rise-institute.jpg)](https://photos.app.goo.gl/EyaKMJr9MaYLHZnr7)
-- [Rise- kitchen/dining](https://photos.app.goo.gl/wi5suMbq12SkmjVp8)
+- [Rise - kitchen/dining](https://photos.app.goo.gl/wi5suMbq12SkmjVp8)
 [![rise kitchen](img/rise-kitchen.jpg)](https://photos.app.goo.gl/wi5suMbq12SkmjVp8)
+
+- [Faru - bathroom pods]([https://photos.app.goo.gl/LH6CFM8h1U7UupZ99](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99))
+[![rise kitchen](img/bathroom.jpg)](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99) 
