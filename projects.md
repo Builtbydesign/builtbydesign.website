@@ -17,4 +17,4 @@
 - [Rise - kitchen/dining](https://photos.app.goo.gl/wi5suMbq12SkmjVp8)
 [![rise kitchen](img/rise-kitchen.jpg)](https://photos.app.goo.gl/wi5suMbq12SkmjVp8)
 - [Mara - River Camp](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99)
-[![Mara River Camp](img/bathroom.jpg)](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99) 
+[![Mara River Camp](img/mara-river-camp.jpg)](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99) 
