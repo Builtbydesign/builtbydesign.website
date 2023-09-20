@@ -18,3 +18,5 @@
 [![rise kitchen](img/rise-kitchen.jpg)](https://photos.app.goo.gl/wi5suMbq12SkmjVp8)
 - [Mara - River Camp](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99)
 [![Mara River Camp](img/mara-river-camp.jpg)](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99) 
+- [Faru - bathroom pods](https://photos.app.goo.gl/a39zVNnVN2VH2vin8)
+[![Faru - bathroom pods](img/faru-bathroom-pods.jpg)](https://photos.app.goo.gl/a39zVNnVN2VH2vin8)
