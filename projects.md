@@ -16,5 +16,5 @@
 [![rise institute](img/rise-institute.jpg)](https://photos.app.goo.gl/EyaKMJr9MaYLHZnr7)
 - [Rise - kitchen/dining](https://photos.app.goo.gl/wi5suMbq12SkmjVp8)
 [![rise kitchen](img/rise-kitchen.jpg)](https://photos.app.goo.gl/wi5suMbq12SkmjVp8)
-- [Faru - bathroom pods](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99))
-[![rise kitchen](img/bathroom.jpg)](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99) 
+- [Mara - River Camp](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99)
+[![Mara River Camp](img/bathroom.jpg)](https://photos.app.goo.gl/LH6CFM8h1U7UupZ99) 
