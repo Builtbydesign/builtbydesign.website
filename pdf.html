@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>pdf</title>
+	<style type="text/css">
+		body {
+			margin: 0;
+			padding: 0;
+			background: #000;
+			height: 100vh;
+		}
+		embed {
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+</head>
+<body>
+<embed id="pdf" src="" width="800px" height="2000px" />
+
+
+<script>
+// thispage
+function run() { 	
+	var file = top.location.hash.slice(1);
+	document.getElementById("pdf").src = file;
+}
+
+// start <<<<<<<<<<<
+run();
+</script>
+</body>
+</html>
