@@ -35,3 +35,5 @@
 [![Out Of Africa](img/out-of-africa.jpg)](https://photos.app.goo.gl/1bvVLxPM4xD98yfB6)
 - [Mnarani-ikoma house](https://photos.app.goo.gl/tPqRMwVK6q5vPMc49)
 [![Mnarani-ikoma house](img/mnarani-ikoma.jpg)](https://photos.app.goo.gl/tPqRMwVK6q5vPMc49)
+- [Nyambogo mock up](pdf.html#nyambogo-mock-up.pdf)
+[![Nyambogo mock up](img/nyambogo.jpg)](pdf.html#nyambogo-mock-up.pdf)
