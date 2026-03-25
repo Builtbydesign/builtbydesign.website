@@ -39,4 +39,4 @@
 [![Nyambogo mock up](img/nyambogo.jpg)](pdf.html#nyambogo-mock-up.pdf)
 
 <br>
-<a href="https://builtbydesign.org/nyambogo-mock-up.pdf">test</a>
+<a href="https://builtbydesign.org/nyambogo-mock-up.pdf">view nyambogo mockup pdf</a>
