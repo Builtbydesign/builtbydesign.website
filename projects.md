@@ -37,3 +37,6 @@
 [![Mnarani-ikoma house](img/mnarani-ikoma.jpg)](https://photos.app.goo.gl/tPqRMwVK6q5vPMc49)
 - [Nyambogo mock up](pdf.html#nyambogo-mock-up.pdf)
 [![Nyambogo mock up](img/nyambogo.jpg)](pdf.html#nyambogo-mock-up.pdf)
+
+<br>
+<a href="https://builtbydesign.org/nyambogo-mock-up.pdf">test</a>
